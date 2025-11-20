@@ -1,0 +1,278 @@
+DEBUG - 2025-11-20 09:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-20 09:48:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/footer.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/footer.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/footer', null, true)
+ 3 APPPATH\Views\lokasi\index.php(83): CodeIgniter\View\View->include('layouts/footer')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 7 APPPATH\Controllers\Lokasi.php(56): view('lokasi/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-20 09:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-20 09:48:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/footer.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/footer.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/footer', null, true)
+ 3 APPPATH\Views\lokasi\index.php(83): CodeIgniter\View\View->include('layouts/footer')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 7 APPPATH\Controllers\Lokasi.php(56): view('lokasi/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-20 09:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-20 09:48:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/footer.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/footer.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/footer', null, true)
+ 3 APPPATH\Views\lokasi\index.php(83): CodeIgniter\View\View->include('layouts/footer')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 7 APPPATH\Controllers\Lokasi.php(56): view('lokasi/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-20 09:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-20 09:48:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/footer.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/footer.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layout/footer', null, true)
+ 3 APPPATH\Views\lokasi\index.php(83): CodeIgniter\View\View->include('layout/footer')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 7 APPPATH\Controllers\Lokasi.php(56): view('lokasi/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-20 09:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-20 09:48:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/footer.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/footer.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layout/footer', null, true)
+ 3 APPPATH\Views\lokasi\index.php(83): CodeIgniter\View\View->include('layout/footer')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 7 APPPATH\Controllers\Lokasi.php(56): view('lokasi/index', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-20 09:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 09:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 10:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 10:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 10:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 10:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-20 10:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-20 10:25:49 --> Error: Class "App\Controllers\Controller" not found
+[Method: GET, Route: lokasi]
+in APPPATH\Controllers\Lokasi.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\dipw2\\app\\Controllers\\Lokasi.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Lokasi')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Lokasi')
+ 5 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Lokasi', true)
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:27:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/header.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/header.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('layout/header', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(16): view('layout/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:27:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/header.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/header.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('layout/header', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(16): view('layout/header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:27:34 --> ErrorException: Undefined array key "lokasi"
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 38.
+ 1 APPPATH\Views\lokasi\index.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lokasi"', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:37:00 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 28.
+ 1 APPPATH\Views\lokasi\index.php(28): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:37:01 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 28.
+ 1 APPPATH\Views\lokasi\index.php(28): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:37:02 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 28.
+ 1 APPPATH\Views\lokasi\index.php(28): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:37:02 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 28.
+ 1 APPPATH\Views\lokasi\index.php(28): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:37:40 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 28.
+ 1 APPPATH\Views\lokasi\index.php(28): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 10:40:37 --> ParseError: syntax error, unexpected end of file
+[Method: GET, Route: lokasi]
+in APPPATH\Views\lokasi\index.php on line 136.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 11:12:08 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi/cilacap]
+in APPPATH\Views\lokasi\index.php on line 125.
+ 1 APPPATH\Views\lokasi\index.php(125): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index('cilacap')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-20 11:12:08 --> TypeError: number_format(): Argument #1 ($num) must be of type float, string given
+[Method: GET, Route: lokasi/cilacap]
+in APPPATH\Views\lokasi\index.php on line 125.
+ 1 APPPATH\Views\lokasi\index.php(125): number_format('Rp110K', 0, ',', '.')
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/index', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(17): view('lokasi/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index('cilacap')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-20 12:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

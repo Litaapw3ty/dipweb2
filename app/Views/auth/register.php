@@ -8,10 +8,10 @@
 </head>
 
 <body>
-<div class="register-wrapper">
+<div class="register-container">
 
     <div class="left-panel">
-        <div class="welcome-card">
+        <div class="welcome-box">
             <h2 class="logo">Sturent</h2>
             <h1 class="welcome-title">Selamat <span>Datang!</span></h1>
             <p>
@@ -21,7 +21,7 @@
         </div>
     </div>
 
-    <div class="right-panel">
+    <div class="form-box">
         <h2 class="form-title">Buat Akun</h2>
 
         <form>

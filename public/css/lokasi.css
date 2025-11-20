@@ -1,0 +1,99 @@
+/* ============================
+    BANNER
+===============================*/
+.banner-lokasi {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.banner-lokasi::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 110px;
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, #ffffff 100%);
+}
+
+/* ============================
+    CONTAINER
+===============================*/
+.lokasi-container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.lokasi-title {
+    font-size: 28px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+/* ============================
+    GRID PRODUK
+===============================*/
+.list-produk {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 25px;
+}
+
+/* ============================
+    CARD PRODUK
+===============================*/
+.card-produk {
+    background: white;
+    border-radius: 16px;
+    padding: 14px;
+    box-shadow: 0px 6px 12px rgba(0,0,0,0.08);
+    transition: 0.2s;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-produk:hover {
+    transform: translateY(-4px);
+}
+
+/* ============================
+    GAMBAR PRODUK
+===============================*/
+.card-produk img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+/* ============================
+    INFO
+===============================*/
+.card-produk .info {
+    margin-top: 12px;
+}
+
+.card-produk h3 {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.card-produk .lokasi,
+.card-produk .rating {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 4px;
+}
+
+/* ============================
+    HARGA
+===============================*/
+.card-produk .harga {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0059ff;
+    margin-top: auto;
+}

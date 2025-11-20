@@ -1,0 +1,40 @@
+CRITICAL - 2025-11-11 08:02:29 --> ErrorException: Undefined variable $item_populer
+[Method: GET, Route: /]
+in APPPATH\Views\Layout\home.php on line 45.
+ 1 APPPATH\Views\Layout\home.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item_populer', 'C:\\xamppnew\\htdocs\\dipweb2\\app\\Views\\Layout\\home.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xamppnew\\htdocs\\dipweb2\\app\\Views\\Layout\\home.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('Layout/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(11): view('Layout/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xamppnew\\htdocs\\dipweb2\\public\\index.php')
+CRITICAL - 2025-11-11 08:04:29 --> ErrorException: Undefined variable $item_populer
+[Method: GET, Route: /]
+in APPPATH\Views\Layout\home.php on line 71.
+ 1 APPPATH\Views\Layout\home.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item_populer', 'C:\\xamppnew\\htdocs\\dipweb2\\app\\Views\\Layout\\home.php', 71)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xamppnew\\htdocs\\dipweb2\\app\\Views\\Layout\\home.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('Layout/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(11): view('Layout/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xamppnew\\htdocs\\dipweb2\\public\\index.php')
+CRITICAL - 2025-11-11 08:06:22 --> TypeError: App\Controllers\Pages::index(): Return value must be of type string, none returned
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xamppnew\\htdocs\\dipweb2\\public\\index.php')

@@ -1,0 +1,1856 @@
+DEBUG - 2025-11-14 01:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 01:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 01:59:53 --> ParseError: syntax error, unexpected string content "Lokasi::detail/$1", expecting ")"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 01:59:54 --> ParseError: syntax error, unexpected string content "Lokasi::detail/$1", expecting ")"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 01:59:55 --> ParseError: syntax error, unexpected string content "Lokasi::detail/$1", expecting ")"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 02:00:16 --> ParseError: syntax error, unexpected string content "Lokasi::detail/$1`);", expecting ")"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 02:00:17 --> ParseError: syntax error, unexpected string content "Lokasi::detail/$1`);", expecting ")"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:00:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:01:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:01:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi/detail.php"
+[Method: GET, Route: lokasi/detail/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi/detail.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:35:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:35:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:35:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:35:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:35:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi/detail.php"
+[Method: GET, Route: lokasi/detail/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi/detail.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:39:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:39:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:43:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:47:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:47:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:47:31 --> Error: Class "App\Controllers\ProdukModel" not found
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Controllers\Lokasi.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:48:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:48:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:48:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:52:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:52:09 --> Error: Class "App\Controllers\ProdukModel" not found
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Controllers\Lokasi.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:52:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:52:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:52:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:52:23 --> Error: Class "App\Controllers\ProdukModel" not found
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Controllers\Lokasi.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:52:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:52:32 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:52:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:52:34 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:53:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:53:45 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 13.
+ 1 APPPATH\Views\lokasi\detail.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:53:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:53:46 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 13.
+ 1 APPPATH\Views\lokasi\detail.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:53:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:53:59 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 20.
+ 1 APPPATH\Views\lokasi\detail.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 20)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:54:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:54:39 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:56:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:56:43 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:56:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:56:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:56:44 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:56:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:56:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:56:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:56:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:57:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:57:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:57:49 --> Error: Class "App\Controllers\ProdukModel" not found
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Controllers\Lokasi.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:27 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:28 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:29 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:29 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:29 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:30 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:30 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:58:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 02:58:30 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+WARNING - 2025-11-14 02:59:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:59:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:59:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:59:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 02:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 02:59:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 02:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 03:00:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 03:00:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 03:01:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-14 03:01:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Lokasi::$lokasiModel is deprecated in APPPATH\Controllers\Lokasi.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Lokasi->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:01:38 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: lokasi/detail/1]
+in APPPATH\Views\lokasi\detail.php on line 7.
+ 1 APPPATH\Views\lokasi\detail.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\lokasi\\detail.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi/detail', [], true)
+ 5 APPPATH\Controllers\Lokasi.php(31): view('lokasi/detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->detail('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:17:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(18): view('lokasi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:17:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(18): view('lokasi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:20:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(18): view('lokasi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:20:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(18): view('lokasi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:20:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(18): view('lokasi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:20:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lokasi.php"
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lokasi.php')
+ 2 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('lokasi', [], true)
+ 3 APPPATH\Controllers\Lokasi.php(18): view('lokasi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:33:35 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-14 03:33:53 --> mysqli_sql_exception: Table 'dipw2.produk' doesn't exist in C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\dipw2\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\dipw2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\dipw2\system\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\dipw2\app\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\dipw2\app\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+#8 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(933): App\Controllers\Beranda->index()
+#9 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#10 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\dipw2\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\dipw2\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\dipw2\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\dipw2\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-11-14 03:33:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:33:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:33:53 --> [Caused by] mysqli_sql_exception: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:33:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-14 03:33:56 --> mysqli_sql_exception: Table 'dipw2.produk' doesn't exist in C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\dipw2\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\dipw2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\dipw2\system\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\dipw2\app\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\dipw2\app\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+#8 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(933): App\Controllers\Beranda->index()
+#9 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#10 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\dipw2\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\dipw2\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\dipw2\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\dipw2\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-11-14 03:33:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:33:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:33:56 --> [Caused by] mysqli_sql_exception: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\ProdukModel.php(14): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Beranda.php(14): App\Models\ProdukModel->getPopuler(4)
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:46:07 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:46:09 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:46:10 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:46:10 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:46:10 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:46:11 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-14 03:49:23 --> mysqli_sql_exception: Table 'dipw2.produk' doesn't exist in C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\dipw2\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\dipw2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\dipw2\system\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\dipw2\app\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\dipw2\app\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+#8 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(933): App\Controllers\Beranda->index()
+#9 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#10 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\dipw2\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\dipw2\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\dipw2\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\dipw2\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-11-14 03:49:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:49:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:49:23 --> [Caused by] mysqli_sql_exception: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-14 03:49:29 --> mysqli_sql_exception: Table 'dipw2.produk' doesn't exist in C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\dipw2\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\dipw2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\dipw2\system\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\dipw2\app\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\dipw2\app\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+#8 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(933): App\Controllers\Beranda->index()
+#9 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#10 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\dipw2\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\dipw2\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\dipw2\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\dipw2\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-11-14 03:49:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:49:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:49:29 --> [Caused by] mysqli_sql_exception: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-11-14 03:49:34 --> mysqli_sql_exception: Table 'dipw2.produk' doesn't exist in C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\dipw2\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\dipw2\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\dipw2\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\dipw2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\dipw2\system\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\dipw2\app\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\dipw2\app\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+#8 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(933): App\Controllers\Beranda->index()
+#9 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+#10 C:\xampp\htdocs\dipw2\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\dipw2\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\dipw2\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\dipw2\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\dipw2\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+CRITICAL - 2025-11-14 03:49:34 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:49:34 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+CRITICAL - 2025-11-14 03:49:34 --> [Caused by] mysqli_sql_exception: Table 'dipw2.produk' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `produk`
+ORDER BY `rating` DESC
+ LIMIT 4', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(677): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\ProdukModel.php(15): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Beranda.php(12): App\Models\ProdukModel->getPopuler(4)
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:55:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/header', null, true)
+ 3 APPPATH\Views\beranda.php(1): CodeIgniter\View\View->include('layouts/header')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+ 7 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 03:56:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/header.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header.php')
+ 2 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/header', null, true)
+ 3 APPPATH\Views\beranda.php(1): CodeIgniter\View\View->include('layouts/header')
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+ 7 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 03:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 03:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 04:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 04:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 04:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 04:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 04:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 04:39:36 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 04:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 04:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 06:48:53 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 06:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 06:58:47 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 06:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 06:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 07:22:56 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 07:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 07:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 07:54:36 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 07:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 08:23:02 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 08:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 08:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 08:32:59 --> ErrorException: Undefined array key "slug"
+[Method: GET, Route: beranda]
+in APPPATH\Views\beranda.php on line 31.
+ 1 APPPATH\Views\beranda.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug"', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php', 31)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+ 5 APPPATH\Controllers\Beranda.php(13): view('beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 08:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 08:33:04 --> ErrorException: Undefined array key "slug"
+[Method: GET, Route: beranda]
+in APPPATH\Views\beranda.php on line 31.
+ 1 APPPATH\Views\beranda.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug"', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php', 31)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+ 5 APPPATH\Controllers\Beranda.php(13): view('beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 08:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 08:33:07 --> ErrorException: Undefined array key "slug"
+[Method: GET, Route: beranda]
+in APPPATH\Views\beranda.php on line 31.
+ 1 APPPATH\Views\beranda.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug"', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php', 31)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+ 5 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 08:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 08:33:08 --> ErrorException: Undefined array key "slug"
+[Method: GET, Route: beranda]
+in APPPATH\Views\beranda.php on line 31.
+ 1 APPPATH\Views\beranda.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "slug"', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php', 31)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+ 5 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 08:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 13:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 13:57:49 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 13:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 13:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 14:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 14:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 14:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 14:02:17 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProdukModel::getProdukModelbyLokasi
+[Method: GET, Route: lokasi]
+in SYSTEMPATH\Model.php on line 927.
+ 1 APPPATH\Controllers\Lokasi.php(10): CodeIgniter\Model->__call('getProdukModelbyLokasi', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Lokasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Lokasi))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 14:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 14:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-14 14:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 14:45:56 --> ErrorException: Undefined variable $lokasiList
+[Method: GET, Route: /]
+in APPPATH\Views\layouts\navbar.php on line 48.
+ 1 APPPATH\Views\layouts\navbar.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $lokasiList', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php', 48)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/navbar', null, true)
+ 5 APPPATH\Views\layouts\header.php(18): CodeIgniter\View\View->include('layouts/navbar')
+ 6 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\header.php')
+ 7 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/header', null, true)
+ 9 APPPATH\Views\beranda.php(1): CodeIgniter\View\View->include('layouts/header')
+10 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+11 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+13 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 14:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 14:45:59 --> ErrorException: Undefined variable $lokasiList
+[Method: GET, Route: /]
+in APPPATH\Views\layouts\navbar.php on line 48.
+ 1 APPPATH\Views\layouts\navbar.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $lokasiList', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php', 48)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/navbar', null, true)
+ 5 APPPATH\Views\layouts\header.php(18): CodeIgniter\View\View->include('layouts/navbar')
+ 6 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\header.php')
+ 7 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/header', null, true)
+ 9 APPPATH\Views\beranda.php(1): CodeIgniter\View\View->include('layouts/header')
+10 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+11 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+13 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 14:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 14:46:03 --> ErrorException: Undefined variable $lokasiList
+[Method: GET, Route: /]
+in APPPATH\Views\layouts\navbar.php on line 48.
+ 1 APPPATH\Views\layouts\navbar.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $lokasiList', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php', 48)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/navbar', null, true)
+ 5 APPPATH\Views\layouts\header.php(18): CodeIgniter\View\View->include('layouts/navbar')
+ 6 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\header.php')
+ 7 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/header', null, true)
+ 9 APPPATH\Views\beranda.php(1): CodeIgniter\View\View->include('layouts/header')
+10 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+11 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+13 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 14:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-14 14:46:04 --> ErrorException: Undefined variable $lokasiList
+[Method: GET, Route: /]
+in APPPATH\Views\layouts\navbar.php on line 48.
+ 1 APPPATH\Views\layouts\navbar.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $lokasiList', 'C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php', 48)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/navbar', null, true)
+ 5 APPPATH\Views\layouts\header.php(18): CodeIgniter\View\View->include('layouts/navbar')
+ 6 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\layouts\\header.php')
+ 7 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(475): CodeIgniter\View\View->render('layouts/header', null, true)
+ 9 APPPATH\Views\beranda.php(1): CodeIgniter\View\View->include('layouts/header')
+10 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\dipw2\\app\\Views\\beranda.php')
+11 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('beranda', [], true)
+13 APPPATH\Controllers\Beranda.php(19): view('beranda', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Beranda->index()
+15 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Beranda))
+16 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+20 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\dipw2\\public\\index.php')
+DEBUG - 2025-11-14 14:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
